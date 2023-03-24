@@ -1,12 +1,13 @@
 package com.example.rickandmortywiki.domen
 
-data class PersonInfo(
+data class CharacterInfo(
     val id: Int,
     val name: String,
-    val gender: String,
     val status: String,
-    val bornLocation: String,
-    val nowLocation: String,
+    val species: String,
+    val gender: String,
+    val origin: String,
+    val location: String,
     val imageUrl: String
 ) {
 }

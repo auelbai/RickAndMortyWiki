@@ -1,4 +1,4 @@
 package com.example.rickandmortywiki.domen
 
-class GetPersonUseCase {
+class GetCharacterUseCase {
 }
